@@ -26,3 +26,20 @@ Realiza as operações `+`, `-`, `x` e `/`, validando os argumentos e divisão p
 Programa que exibe os limites e tamanhos de tipos numéricos e verifica se a multiplicação de dois `int` pode causar overflow antes de executá-la.
 
 **Conceitos:** tipos numéricos, limites, promoção de tipos e prevenção de overflow.
+
+## Exercício 4 — Sanitizador de Strings
+
+Programa que recebe um texto, remove espaços em branco no início e no final da string e exibe seu tamanho antes e depois da sanitização.
+
+**Conceitos:** `String`, `trim()`, manipulação de strings e modularização.
+
+> Exercício originalmente proposto em C++ utilizando C-Strings e `std::string`, adaptado para Java.
+
+## Exercício 5 — Processador de Cadastro
+
+Programa para cadastro de funcionário e cálculo de reajuste salarial, utilizando funções para leitura, cálculo e exibição dos dados.
+
+**Conceitos:** métodos, passagem de parâmetros, retorno de valores e modularização.
+
+> Os exercícios foram originalmente propostos em C++ e adaptados para Java.
+
